@@ -1,6 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
 
+
+
+
+
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 /* FÖLJANDE KOD SNODD FRÅN https://www.w3schools.com/howto/howto_css_switch.asp */
+
 
 .switch {
     position: relative;
